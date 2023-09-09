@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Invalid {
+    color: red;
+    font-size: 10px;
+}
